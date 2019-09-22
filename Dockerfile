@@ -31,15 +31,3 @@ ENV JENKINS_OPTS="--prefix=/jenkins -Djenkins.install.runSetupWizard=false"
 RUN /usr/local/bin/plugins.sh /usr/share/jenkins/ref/plugins.txt
 
 ENTRYPOINT ["/entrypoint.sh"]
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About

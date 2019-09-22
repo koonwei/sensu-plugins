@@ -1,26 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@koonwei 
-Your GitHub academic discount coupon has expired
-If you’re still eligible, you may re-apply.
-If you’re no longer eligible, you may either update your payment information, or downgrade your account.
-If you have any questions, please contact GitHub Education.
-
-19
-136131Accenture/adop-jenkins
- Code Issues 10 Pull requests 10 Actions Projects 0 Wiki Security Insights
-adop-jenkins/Dockerfile
-@anton-kasperovich anton-kasperovich Upgrade to Jenkins 2.7.4 and update version of plugins
-1f374e5 on Sep 21, 2016
-@nickdgriffin@anton-kasperovich@dsingh07@DanTarl@quirinobrizi@mihail-dev
-34 lines (25 sloc)  1.17 KB
-  
 FROM jenkins:2.7.4
 
 MAINTAINER Nick Griffin, <nicholas.griffin>
